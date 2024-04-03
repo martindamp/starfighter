@@ -35,6 +35,7 @@
   "name":"BLANK GAME",
   "resources":[
     {"id":{"name":"Player1_object","path":"objects/Player1_object/Player1_object.yy",},},
+    {"id":{"name":"ParticleSystem1","path":"particles/ParticleSystem1/ParticleSystem1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Player1_sprite","path":"sprites/Player1_sprite/Player1_sprite.yy",},},
   ],

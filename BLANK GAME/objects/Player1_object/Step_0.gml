@@ -35,6 +35,15 @@ function updatepos()
 	/// @DnDArgument : "yscale" "circledia/350"
 	image_xscale = circledia/350;
 	image_yscale = circledia/350;
+
+	/// @DnDAction : YoYo Games.Instances.Call_User_Event
+	/// @DnDVersion : 1
+	/// @DnDHash : 26649330
+	/// @DnDApplyTo : all
+	/// @DnDParent : 6A7066A4
+	with(all) {
+	event_user(0);
+	}
 }
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
